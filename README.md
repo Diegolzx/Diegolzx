@@ -28,7 +28,7 @@
 <h3><code>diegolzx@github ~ $ cat tech_stack.txt</code></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,mysql,react,git,nodejs,linux,arduino,raspberrypi,latex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,sqlserver,react,git,nodejs,linux,arduino,raspberrypi,latex&theme=dark" />
   </a>
 </p>
 

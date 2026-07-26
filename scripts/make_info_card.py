@@ -8,7 +8,7 @@ def make_info_card():
     fields = [
         {"key": "Role", "value": "Full Stack Developer"},
         {"key": "Languages", "value": "Python, C++, C#, Java, JavaScript"},
-        {"key": "Technologies", "value": "React, Node.js, MySQL, Git, Linux"},
+        {"key": "Technologies", "value": "React, Node.js, SQL Server, Git, Linux"},
         {"key": "Hardware/IoT", "value": "Arduino, ESP32, Raspberry Pi"},
         {"key": "Other", "value": "LaTeX"},
         {"key": "Certs", "value": "HCIA-IoT V3.0, CCNA (ITN, SRWE), Kaggle Python, Intro to Cybersec"}

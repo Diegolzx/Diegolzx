@@ -45,7 +45,7 @@
 <g class="animated-row" style="animation-delay: 0.5s">
     <text x="20" y="126" class="text key">Technologies</text>
     <text x="120" y="126" class="text">:</text>
-    <text x="140" y="126" class="text">React, Node.js, MySQL, Git, Linux</text>
+    <text x="140" y="126" class="text">React, Node.js, SQL Server, Git, Linux</text>
 </g>
 
 <g class="animated-row" style="animation-delay: 0.6000000000000001s">
