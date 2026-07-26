@@ -13,4 +13,23 @@
   </tr>
 </table>
 
+<br><br>
+
+<h3><code>diegolzx@github ~ $ neofetch --stats</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./top-languages.svg" width="310" /></td>
+    <td valign="top"><img src="./latest-projects.svg" width="550" /></td>
+  </tr>
+</table>
+
+<br><br>
+
+<h3><code>diegolzx@github ~ $ cat tech_stack.txt</code></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,mysql,react,git,nodejs,linux,arduino,raspberrypi,latex&theme=dark" />
+  </a>
+</p>
+
 </div>

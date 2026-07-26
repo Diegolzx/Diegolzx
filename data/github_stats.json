@@ -1,0 +1,42 @@
+{
+  "username": "Diegolzx",
+  "languages": [
+    {
+      "name": "HTML",
+      "count": 10
+    },
+    {
+      "name": "Jupyter Notebook",
+      "count": 3
+    },
+    {
+      "name": "JavaScript",
+      "count": 2
+    },
+    {
+      "name": "Python",
+      "count": 1
+    },
+    {
+      "name": "C#",
+      "count": 1
+    }
+  ],
+  "latest_projects": [
+    {
+      "name": "Diegolzx",
+      "description": "No description provided.",
+      "url": "https://github.com/Diegolzx/Diegolzx"
+    },
+    {
+      "name": "valle-mezquital-system",
+      "description": "No description provided.",
+      "url": "https://github.com/Diegolzx/valle-mezquital-system"
+    },
+    {
+      "name": "Air-Watch",
+      "description": "No description provided.",
+      "url": "https://github.com/Diegolzx/Air-Watch"
+    }
+  ]
+}
