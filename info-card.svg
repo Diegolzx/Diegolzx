@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" width="490" height="300">
+<style>
+    .text {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 14px;
+        fill: #c9d1d9;
+    }
+    .key {
+        fill: #58a6ff;
+        font-weight: bold;
+    }
+    .title {
+        fill: #58a6ff;
+        font-weight: bold;
+    }
+    .bg {
+        fill: #0d1117;
+        rx: 10px;
+    }
+    .animated-row {
+        opacity: 0;
+        animation: fadeIn 0.5s forwards;
+    }
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateX(-10px); }
+        to { opacity: 1; transform: translateX(0); }
+    }
+</style>
+<rect width="100%" height="100%" class="bg" />
+<text x="20" y="30" class="text title animated-row" style="animation-delay: 0.1s">diego@github</text>
+<text x="20" y="54" class="text animated-row" style="animation-delay: 0.2s">------------</text>
+
+<g class="animated-row" style="animation-delay: 0.3s">
+    <text x="20" y="78" class="text key">Role</text>
+    <text x="120" y="78" class="text">:</text>
+    <text x="140" y="78" class="text">Full Stack Developer</text>
+</g>
+
+<g class="animated-row" style="animation-delay: 0.4s">
+    <text x="20" y="102" class="text key">Languages</text>
+    <text x="120" y="102" class="text">:</text>
+    <text x="140" y="102" class="text">Python, C++, C#, Java, JavaScript</text>
+</g>
+
+<g class="animated-row" style="animation-delay: 0.5s">
+    <text x="20" y="126" class="text key">Technologies</text>
+    <text x="120" y="126" class="text">:</text>
+    <text x="140" y="126" class="text">React, Node.js, MySQL, Git, Linux</text>
+</g>
+
+<g class="animated-row" style="animation-delay: 0.6000000000000001s">
+    <text x="20" y="150" class="text key">Hardware/IoT</text>
+    <text x="120" y="150" class="text">:</text>
+    <text x="140" y="150" class="text">Arduino, ESP32, Raspberry Pi</text>
+</g>
+
+<g class="animated-row" style="animation-delay: 0.7s">
+    <text x="20" y="174" class="text key">Other</text>
+    <text x="120" y="174" class="text">:</text>
+    <text x="140" y="174" class="text">LaTeX</text>
+</g>
+
+<g class="animated-row" style="animation-delay: 0.8s">
+    <text x="20" y="198" class="text key">Certs</text>
+    <text x="120" y="198" class="text">:</text>
+    <text x="140" y="198" class="text">HCIA-IoT V3.0, CCNA (ITN, SRWE), Kaggle Python, Intro to Cybersec</text>
+</g>
+<g class="animated-row" style="animation-delay: 1.0000000000000002s">
+    <rect x="20" y="236" width="20" height="20" fill="#ff7b72" rx="3" />
+    <rect x="50" y="236" width="20" height="20" fill="#3fb950" rx="3" />
+    <rect x="80" y="236" width="20" height="20" fill="#d2a8ff" rx="3" />
+    <rect x="110" y="236" width="20" height="20" fill="#a5d6ff" rx="3" />
+    <rect x="140" y="236" width="20" height="20" fill="#ffa657" rx="3" />
+    <rect x="170" y="236" width="20" height="20" fill="#ffc11a" rx="3" />
+</g>
+</svg>
