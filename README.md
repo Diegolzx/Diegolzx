@@ -32,4 +32,16 @@
   </a>
 </p>
 
+<br><br>
+
+<h3><code>diegolzx@github ~ $ ./links.sh</code></h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-lozano-camargo-58603a281" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://pag-integrador.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Proyecto_Integrador-Live_Demo-2EA043?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
 </div>
