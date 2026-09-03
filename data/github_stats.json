@@ -3,7 +3,7 @@
   "languages": [
     {
       "name": "HTML",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Jupyter Notebook",
@@ -24,6 +24,11 @@
   ],
   "latest_projects": [
     {
+      "name": "practica_cifrado",
+      "description": "No description provided.",
+      "url": "https://github.com/Diegolzx/practica_cifrado"
+    },
+    {
       "name": "Diegolzx",
       "description": "No description provided.",
       "url": "https://github.com/Diegolzx/Diegolzx"
@@ -32,11 +37,6 @@
       "name": "valle-mezquital-system",
       "description": "No description provided.",
       "url": "https://github.com/Diegolzx/valle-mezquital-system"
-    },
-    {
-      "name": "Air-Watch",
-      "description": "No description provided.",
-      "url": "https://github.com/Diegolzx/Air-Watch"
     }
   ]
 }

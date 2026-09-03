@@ -18,19 +18,19 @@
 </g>
 <g style="animation-delay: 0.1s; opacity: 0; animation: fadeIn 0.5s forwards;">
     <text x="15" y="105" class="text">Jupyter No</text>
-    <rect x="90" y="95" width="45" height="12" fill="#8b949e" rx="3" class="bar" style="transform-origin: left;" />
+    <rect x="90" y="95" width="40" height="12" fill="#8b949e" rx="3" class="bar" style="transform-origin: left;" />
 </g>
 <g style="animation-delay: 0.2s; opacity: 0; animation: fadeIn 0.5s forwards;">
     <text x="15" y="130" class="text">JavaScript</text>
-    <rect x="90" y="120" width="30" height="12" fill="#f1e05a" rx="3" class="bar" style="transform-origin: left;" />
+    <rect x="90" y="120" width="27" height="12" fill="#f1e05a" rx="3" class="bar" style="transform-origin: left;" />
 </g>
 <g style="animation-delay: 0.30000000000000004s; opacity: 0; animation: fadeIn 0.5s forwards;">
     <text x="15" y="155" class="text">Python</text>
-    <rect x="90" y="145" width="15" height="12" fill="#3572A5" rx="3" class="bar" style="transform-origin: left;" />
+    <rect x="90" y="145" width="13" height="12" fill="#3572A5" rx="3" class="bar" style="transform-origin: left;" />
 </g>
 <g style="animation-delay: 0.4s; opacity: 0; animation: fadeIn 0.5s forwards;">
     <text x="15" y="180" class="text">C#</text>
-    <rect x="90" y="170" width="15" height="12" fill="#178600" rx="3" class="bar" style="transform-origin: left;" />
+    <rect x="90" y="170" width="13" height="12" fill="#178600" rx="3" class="bar" style="transform-origin: left;" />
 </g>
 <style>
     @keyframes fadeIn {
