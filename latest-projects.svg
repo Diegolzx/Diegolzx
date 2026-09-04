@@ -15,11 +15,11 @@
 <text x="20" y="30" class="text title">Latest Projects</text>
 <text x="20" y="45" class="text">----------------------------------------</text>
 <g class="item" style="animation-delay: 0.0s;">
-    <text x="20" y="70" class="text repo">📁 practica_cifrado</text>
+    <text x="20" y="70" class="text repo">📁 Diegolzx</text>
     <text x="40" y="88" class="desc">No description provided.</text>
 </g>
 <g class="item" style="animation-delay: 0.15s;">
-    <text x="20" y="115" class="text repo">📁 Diegolzx</text>
+    <text x="20" y="115" class="text repo">📁 practica_cifrado</text>
     <text x="40" y="133" class="desc">No description provided.</text>
 </g>
 <g class="item" style="animation-delay: 0.3s;">
